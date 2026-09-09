@@ -1,3 +1,3 @@
 # DSA-Lab1
-data structure lab 1.
+Data structure Lab 1.
 Added 3 new files.
